@@ -17,7 +17,7 @@ This is a **reference copy** maintained to:
 
 For **active development and production use**, see our internal derivative: **MicroCODE Web App**
 
-MicroCODE Gravity is our customized version of Gravity that we use to build applications internally. All active development, customizations, and production deployments should use MicroCODE Gravity, not this reference copy.
+MicroCODE Web App is our customized version of Gravity that we use to build applications internally. All active development, customizations, and production deployments should use MicroCODE Web App, not this reference copy.
 
 ## About Gravity
 
