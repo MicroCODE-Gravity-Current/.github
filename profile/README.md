@@ -2,7 +2,8 @@
 
 **⚠️ REFERENCE REPOSITORY ONLY - DO NOT USE FOR PRODUCTION**
 
-This repository contains a backup copy of the licensed [Gravity SaaS Boilerplate](https://usegravity.app/) for reference purposes only.
+- **This is only updated from the official Gravity repository for tracking purposes.**
+- This repository contains a backup copy of the licensed [Gravity SaaS Boilerplate](https://usegravity.app/) for reference purposes only.
 
 ## Purpose
 
@@ -10,14 +11,14 @@ This is a **reference copy** maintained to:
 
 - Track upstream changes and enhancements from the official Gravity product
 - Review security patches and bug fixes from the Gravity team
-- Evaluate new features before integrating into MicroCODE Gravity
+- Evaluate new features before integrating into `MicroCODE App Template`
 - Maintain licensing compliance and update history
 
-## MicroCODE Web App
+## MicroCODE App Template
 
-For **active development and production use**, see our internal derivative: **MicroCODE Web App**
+For **active development and production use**, see our internal derivative: **MicroCODE App Template**
 
-MicroCODE Web App is our customized version of Gravity that we use to build applications internally. All active development, customizations, and production deployments should use MicroCODE Web App, not this reference copy.
+MicroCODE App Template is our customized version of Gravity that we use to build applications internally. All active development, customizations, and production deployments should use MicroCODE App Template, not this reference copy.
 
 ## About Gravity
 
@@ -56,7 +57,7 @@ This code is licensed under the Gravity commercial license purchased by MicroCOD
 **License Terms:**
 
 - ✅ Use for multiple internal projects
-- ✅ Modify and create derivatives (e.g., MicroCODE Gravity)
+- ✅ Modify and create derivatives (e.g., MicroCODE App Template)
 - ✅ Deploy to production environments
 - ❌ Do not redistribute or resell
 - ❌ Do not use this reference copy directly for production
@@ -74,8 +75,8 @@ This repository is updated periodically to match our purchased version from Grav
 1. Download latest version from Gravity GitHub
 2. Create new branch with version/date
 3. Review changelog and release notes
-4. Identify relevant changes for MicroCODE Gravity
-5. Evaluate and plan integration into MicroCODE Gravity
+4. Identify relevant changes for MicroCODE App Template
+5. Evaluate and plan integration into MicroCODE App Template
 
 ## Support & Resources
 
@@ -95,6 +96,6 @@ Troy, MI 48085
 
 ---
 
-**⚠️ Remember:** This is a reference copy only. All active work should be done in the **MicroCODE Gravity** repository.
+**⚠️ Remember:** This is a reference copy only. All active work should be done in the **MicroCODE App Template** repository.
 
 Last Updated: November 2025
